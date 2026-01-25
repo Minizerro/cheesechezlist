@@ -1,1 +1,18 @@
-
+{
+    "id": 127161304,
+    "name": "Cheeb",
+    "author": "Minizerro",
+    "creators": ["Minizerro"],
+    "verifier": "Minizerro",
+    "verification": "https://www.youtube.com/watch?v=n17k3_fq-pk",
+    "percentToQualify": 100,
+    "password": "-",
+    "records": [
+        {
+            "user": "NitronGD",
+            "link": "-",
+            "percent": 100,
+            "hz": "-"
+        }
+    ]
+}
