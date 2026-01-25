@@ -1,0 +1,24 @@
+{
+    "id": 127425129,
+    "name": "Wavey Chez",
+    "author": "Carl",
+    "creators": ["Carl"],
+    "verifier": "Carl",
+    "verification": "https://www.youtube.com/watch?v=lu_ubsHKHd0&t",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Eelidash",
+            "link": "-",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "Test_User",
+            "link": "-",
+            "percent": 100,
+            "hz": "-"
+        }
+    ]
+}
