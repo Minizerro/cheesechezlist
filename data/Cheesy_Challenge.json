@@ -1,5 +1,5 @@
 {
-    "id": 127161304,
+    "id": 127133228,
     "name": "Cheesy Challenge",
     "author": "PISCAOOFC",
     "creators": ["PISCAOOFC"],
@@ -34,6 +34,12 @@
         },
         {
             "user": "Rocgd",
+            "link": "-",
+            "percent": 100,
+            "hz": "-"
+        },
+        {
+            "user": "Joolik",
             "link": "-",
             "percent": 100,
             "hz": "-"
