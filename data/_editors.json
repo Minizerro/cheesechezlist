@@ -1,23 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "NitronGD",
+        "link": "https://www.youtube.com/@NitronGeometry"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Minizerro",
+        "link": "https://www.youtube.com/@minskizerro"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Joolik",
+        "link": "https://www.youtube.com/@wjoolik"
     },
     {
         "role": "dev",
