@@ -10,12 +10,12 @@
     "records": [
         {
             "user": "Shadovvgmd",
-            "link": "",
+            "link": "-",
             "percent": 100,
         },
         {
             "user": "Test_User",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "-",
             "percent": 100,
         }
     ]
