@@ -10,8 +10,18 @@
         "link": "https://www.youtube.com/@minskizerro"
     },
     {
-        "role": "trial",
+        "role": "helper",
         "name": "Joolik",
         "link": "https://www.youtube.com/@wjoolik"
+    },
+    {
+        "role": "helper",
+        "name": "UriIF2",
+        "link": "-"
+    },
+    {
+        "role": "helper",
+        "name": "!not_alex68",
+        "link": "-"
     }
 ]
