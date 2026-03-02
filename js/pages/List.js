@@ -103,7 +103,7 @@ export default {
                         Achieved the record without using hacks.
                     </p>
                     <p>
-                        Click Between Frames is allowed.
+                        Click Between Frames is allowed since Version 2.208.
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
