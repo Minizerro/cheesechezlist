@@ -8,5 +8,11 @@
     "percentToQualify": "",
     "password": "",
     "records": [
+        {
+            "user": "",
+            "link": "-",
+            "percent": ,
+            "hz": "-"
+        }
     ]
 }
