@@ -1,18 +1,12 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [""],
-    "verifier": "",
-    "verification": "",
-    "percentToQualify": "",
+    "id": 138502121 ,
+    "name": "Sobroseskull X",
+    "author": "RocGD",
+    "creators": ["RocGD, UrilF2"],
+    "verifier": "RocGD",
+    "verification": "https://www.youtube.com/watch?v=BTmFxTw8uMQ",
+    "percentToQualify": "100",
     "password": "",
     "records": [
-        {
-            "user": "",
-            "link": "-",
-            "percent": ,
-            "hz": "-"
-        }
     ]
 }
