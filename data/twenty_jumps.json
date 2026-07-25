@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Minizerro",
+            "link": "https://www.youtube.com/watch?v=z--o0mcO3zo",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }
