@@ -31,6 +31,12 @@
             "link": "-",
             "percent": 100,
             "hz": "-"
+        },
+        {
+            "user": "DuckyMightBe",
+            "link": "https://www.youtube.com/watch?v=A7NYRytpOYA",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
